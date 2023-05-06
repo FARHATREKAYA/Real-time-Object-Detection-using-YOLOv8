@@ -23,7 +23,7 @@ cd your_repository
 pip install -r requirements.txt
 ```
 ##Usage
-1. Download a pre-trained YOLOv5 model from the official repository or train your own model using the YOLOv5 repository.
+1. Download a pre-trained YOLOv8 model from the official repository or train your own model using the YOLOv5 repository.
 2. Save the model file (.pt) in the same directory as the Python script.
 3. Update the model_path variable in the Python script to match the name of your model file.
 4. Update the class_name_dict variable in the Python script to match the class names used by your model.
