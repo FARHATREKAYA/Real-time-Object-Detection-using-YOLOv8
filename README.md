@@ -1,6 +1,6 @@
-# Real-time Object Detection using YOLOv5 and OpenCV
+# Real-time Object Detection using YOLOv8 and OpenCV
 
-This repository contains a Python script that uses YOLOv5 and OpenCV to perform real-time object detection using the default camera on a device.
+This repository contains a Python script that uses YOLOv8 and OpenCV to perform real-time object detection using the default camera on a device.
 
 ## Requirements
 Python 3.6 or later
