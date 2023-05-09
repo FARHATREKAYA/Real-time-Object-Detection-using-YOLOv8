@@ -22,7 +22,7 @@ cd your_repository
 ```rb
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 1. Download a pre-trained YOLOv8 model from the official repository or train your own model using the YOLOv8 repository.
 2. Save the model file (.pt) in the same directory as the Python script.
 3. Update the model_path variable in the Python script to match the name of your model file.
