@@ -33,3 +33,8 @@ pip install -r requirements.txt
 python real_time_detection.py
 ```
 7. Press q to quit the program.
+## License
+This repository is licensed under the MIT License.
+
+Author
+This repository was created by Farhat Rekaya.
