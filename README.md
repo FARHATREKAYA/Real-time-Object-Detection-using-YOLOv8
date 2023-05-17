@@ -36,5 +36,5 @@ python real_time_detection.py
 ## License
 This repository is licensed under the MIT License.
 
-Author
+## Author
 This repository was created by Farhat Rekaya.
